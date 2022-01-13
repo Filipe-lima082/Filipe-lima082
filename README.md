@@ -1,6 +1,6 @@
 ## Olá, Eu sou o Filipe, Desenvolvedor Front End 💻
 
---🌱 I’m currently learning at: Css, Bootstrap JavaScript, React.JS
+--🌱 I’m currently learning at: React.JS
 
 --💼 Tools: VsCode, PhotoShop, AdobeXD, Figma, Git and GitHub.
 
