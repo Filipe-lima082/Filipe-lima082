@@ -1,6 +1,6 @@
 ## Olá, Eu sou o Filipe, Desenvolvedor Front End 💻
 
---🌱 I’m currently learning at: React.JS
+--🌱 I’m currently learning: Nuxt-JS
 
 --💼 Tools: VsCode, PhotoShop, AdobeXD, Figma, Git and GitHub.
 
