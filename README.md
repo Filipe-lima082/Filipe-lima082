@@ -1,4 +1,4 @@
-## Olá, Eu sou o Filipe, Desenvolvedor Front End 💻
+## Hello, my name is Filipe, Front end developer and graduating in software engineering 💻
 
 --🌱 I’m currently learning: Nuxt-JS
 
