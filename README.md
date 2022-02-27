@@ -1,6 +1,6 @@
 ## Hello, my name is Filipe, Front end developer and graduating in software engineering 💻
 
---🌱 I’m currently learning: Nuxt-JS
+--🌱 I’m currently learning: Next-JS
 
 --💼 Tools: VsCode, PhotoShop, AdobeXD, Figma, Git and GitHub.
 
