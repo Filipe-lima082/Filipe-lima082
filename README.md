@@ -1,8 +1,9 @@
-## Hello, my name is Filipe, Front end developer and graduating in software engineering 💻
+## Olá, me chamo Filipe e seja Bem Vindo ao meu repositório.  💻
+### Bacharelando em: Engenharia de software
 
---🌱 I’m currently learning: Next-JS
+--🌱 Atualmente estudando: Next-JS
 
---💼 Tools: VsCode, PhotoShop, AdobeXD, Figma, Git and GitHub.
+--💼 Ferramentas: VsCode, PhotoShop, AdobeXD, Figma, Git e GitHub.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
