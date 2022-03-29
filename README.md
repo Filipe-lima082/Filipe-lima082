@@ -1,4 +1,4 @@
-## Olá, me chamo Filipe e seja Bem Vindo ao meu repositório.  💻
+## Olá, me chamo Filipe e Seja Bem Vindo ao meu repositório.  💻
 ### Bacharelando em: Engenharia de software
 
 --🌱 Atualmente estudando: Next-JS
