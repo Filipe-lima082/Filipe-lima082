@@ -6,9 +6,9 @@
 --💼 Ferramentas: VsCode, PhotoShop, AdobeXD, Figma, Git e GitHub.
 
 <div align="center">
-  <a href="https://github.com/Filipe-lima082">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Filipe-lima082&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe-lima082&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/flimamcz">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=flimamcz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flimamcz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
