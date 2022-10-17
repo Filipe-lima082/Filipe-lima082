@@ -1,11 +1,11 @@
 ## Olá, me chamo Filipe e Seja Bem Vindo ao meu repositório.  💻
 ### Bacharelando em: Engenharia de software
 
---🌱 Atualmente estudando: Next-JS
+🌱 Atualmente estudando: Next-JS
 
---💼 Atualmente estagiando na Polícia Federal: Estágiario de TI
+💼 Atualmente estagiando na Polícia Federal: Estágiario de TI
 
---🔨 Ferramentas: VsCode, PhotoShop, AdobeXD, Figma, Git e GitHub.
+🔨 Ferramentas: VsCode, PhotoShop, AdobeXD, Figma, Git e GitHub.
 
 <div align="center">
   <a href="https://github.com/flimamcz">
