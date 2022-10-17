@@ -3,7 +3,9 @@
 
 --🌱 Atualmente estudando: Next-JS
 
---💼 Ferramentas: VsCode, PhotoShop, AdobeXD, Figma, Git e GitHub.
+--💼 Atualmente estagiando na Polícia Federal: Estágiario de TI
+
+--🔨 Ferramentas: VsCode, PhotoShop, AdobeXD, Figma, Git e GitHub.
 
 <div align="center">
   <a href="https://github.com/flimamcz">
