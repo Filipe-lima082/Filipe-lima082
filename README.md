@@ -7,6 +7,17 @@
 
 🔨 Ferramentas: VsCode, PhotoShop, AdobeXD, Figma, Git e GitHub.
 
+### Onde me encontrar ?
+  <div align="center">
+    <a href="https://www.linkedin.com/in/filipe-lima-dev/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+  
+  <a href="mailto:flima.azevedo82@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </div>
+
 <div align="center">
   <a href="https://github.com/flimamcz">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=flimamcz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
