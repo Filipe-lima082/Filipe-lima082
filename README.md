@@ -1,7 +1,7 @@
 ## Olá, me chamo Filipe e Seja Bem Vindo ao meu repositório.  💻
 ### Bacharelando em: Engenharia de software
 
-🌱 Atualmente estudando: Next-JS
+🌱 Atualmente estudando: MySQL
 
 💼 Atualmente estagiando na Polícia Federal: Estágiario de TI
 
