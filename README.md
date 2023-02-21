@@ -1,11 +1,11 @@
 ## Olá, me chamo Filipe e Seja Bem Vindo ao meu repositório.  💻
 ### Bacharelando em: Engenharia de software
 
-🌱 Atualmente estudando: MySQL
+🌱 Atualmente estudando: POO
 
 💼 Atualmente estagiando na Polícia Federal: Estágiario de TI
 
-🔨 Ferramentas: VsCode, PhotoShop, AdobeXD, Figma, Git e GitHub.
+🔨 Ferramentas: React, React Hooks, TypeScript, Node, Express, MySQL, Sequelize.
 
 ### Onde me encontrar ?
   <div>
