@@ -5,7 +5,7 @@
 
 💼 Atualmente estagiando na Polícia Federal: Estágiario de TI
 
-🔨 Ferramentas: React, React Hooks, TypeScript, Node, Express, MySQL, Sequelize.
+🔨 Ferramentas: React, React Hooks, TypeScript, Node, Express, MySQL, Sequelize, POO.
 
 ### Onde me encontrar ?
   <div>
