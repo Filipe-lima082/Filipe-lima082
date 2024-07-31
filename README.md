@@ -3,7 +3,7 @@
 
 🌱 Atualmente estudando: MongoDB
 
-💼 Atualmente estagiando na Polícia Federal: Estágiario de TI
+💼 Atualmente : NOT A NULL
 
 🔨 Ferramentas: React, React Hooks, TypeScript, Node, Express, MySQL, Sequelize, POO.
 
